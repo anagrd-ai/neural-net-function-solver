@@ -3,4 +3,4 @@ TensorFlow-based neural net optimized to solve functions of two variables, z = f
 
 Example:
 
-![Example f(x, y) = cos(r), where r = sqrt(x**2 + y**2)](Example%20output.png)
+![Example f(x, y) = cos(r), where r = sqrt(x**2 + y**2)](ExampleOutput.png)
